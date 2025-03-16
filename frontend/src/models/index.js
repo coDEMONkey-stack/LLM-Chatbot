@@ -1,0 +1,17 @@
+export const company = {
+    name: 'Quantis Node',
+    alias: 'Quantis Node',
+    slug: 'quantisnode',
+    phone: '',
+    phone_label: '',
+    email: '',
+    address: '',
+    wa: '',
+    yt: '',
+    ig: '',
+    fb: '',
+    tw: 'https://x.com/quantisnode',
+    github: 'https://github.com/sbymaster/quantisnode.xyz',
+    linkedin: '',
+    key_ca: '',
+};
